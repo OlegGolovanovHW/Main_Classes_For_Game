@@ -1,0 +1,14 @@
+CharacterHealth = 8;
+CharacterMana = 8;
+CharacterArmor = 8;
+CharacterStamina = 8;
+CharacterDamage = 8;
+CharacterAgility = 8;
+CharacterStrength = 8;
+CharacterIntellegence = 8;
+CharacterAttackSpeed = 8;
+CharacterCoordinates[x] = 0;
+CharacterCoordinates[y] = 0;
+CharacterBloodClotsAmount = 0;
+CharacterRatioOfGettingClots = 1;
+CharacterGettingIncreaseClotFromBaseTalent = 1,15; //+15%

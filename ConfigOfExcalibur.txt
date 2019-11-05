@@ -1,0 +1,4 @@
+Rare = Legendary;
+Damage = 250;
+MaxDurability = 10000;
+CurrentDurability = 10000;
